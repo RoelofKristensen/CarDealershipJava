@@ -1,0 +1,19 @@
+Personal Information.
+---------------------------------------------------------------------
+Fullnames: roelof test vor video
+ID Number: 5342434
+Cell Number: 165461
+Gender: Male
+Ocuupation: student
+Home Address: down the street
+Work Address: up the street
+Gross Pay: 1000000000
+Net Pay: 100000000000000000000
+Valid Licese: Yes
+Model: Polo
+
+Next of kin Information.
+---------------------------------------------------------------------
+Fullnames: my neighbor next door
+ID Number: 5466415
+Relationship: old man
